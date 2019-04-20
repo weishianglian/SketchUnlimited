@@ -12,12 +12,12 @@ Or you can copy the code from `SketchUnlimited.applescript` to Automator by crea
 
 **SketchUnlimited.applescript**
 ```AppleScript
-do shell script "date 0420080019 && open /Applications/Sketch.app && sntp -sS time.apple.com" with administrator privileges
+do shell script "date 0420080000 && open /Applications/Sketch.app && sntp -sS time.apple.com" with administrator privileges
 ```
 
 ![SketchUnlimited Automator](https://user-images.githubusercontent.com/32001663/56462192-f52bd900-63b6-11e9-8228-5444a90711f2.png)
 
-Once you launch the `SketchUnlimited`, it needs the permission to change the system and open `Sketch.app` in `/Applications`. 
+Once you launch the `SketchUnlimited`, it needs the permission to change the system time and open `Sketch.app` in `/Applications`. 
 ![Permission Request](https://user-images.githubusercontent.com/32001663/56462244-dbd75c80-63b7-11e9-9081-8d51db9493d0.png)
 
 After entering `Username` and `Password`, you can use `Sketch` without trial limited. Enjoy it!
