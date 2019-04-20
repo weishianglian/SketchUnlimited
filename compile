@@ -1,0 +1,3 @@
+#!/bin/bash
+osacompile -o SketchUnlimited.app SketchUnlimited.applescript
+cp /Applications/Sketch.app/Contents/Resources/app.icns SketchUnlimited.app/Contents/Resources/applet.icns

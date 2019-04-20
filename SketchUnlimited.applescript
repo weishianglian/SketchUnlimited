@@ -1,0 +1,1 @@
+do shell script "date 0420080019 && open /Applications/Sketch.app && sntp -sS time.apple.com" with administrator privileges
